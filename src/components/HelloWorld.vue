@@ -1,4 +1,8 @@
 <template>
-  <h1 class="font-bold bg">Alamakota</h1>
+  <div class="columns-2">
+    <p>Well, let me tell you something, ...</p>
+    <p class="break-inside-avoid-column">Sure, go ahead, laugh...</p>
+    <p>Maybe we can live without...</p>
+    <p>Look. If you think this is..1</p>
+  </div>
 </template>
-AACg7QgpsCd8n3c
